@@ -7,7 +7,7 @@ A data visualization project analyzing Medicaid prescription reimbursement patte
 ## 📊 Dashboard
 
 View the interactive dashboard on Tableau Public:
-[Medicaid Reimbursements Dashboard]([(https://public.tableau.com/shared/JC84YFGRX?:display_count=n&:origin=viz_share_link)]) 
+[Medicaid Reimbursements Dashboard](https://public.tableau.com/shared/JC84YFGRX?:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -67,4 +67,4 @@ The dataset includes state-level Medicaid prescription reimbursement records wit
 
 I'm a Statistics graduate from Utah State University (minors in Mathematics and Data Analytics) with experience in Python, R, SQL, Tableau, and Excel. I'm currently seeking data analyst roles.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/erin-petersen-792769345)
+🔗 [LinkedIn](https://www.linkedin.com/in/erinkpete)
