@@ -7,7 +7,7 @@ A data visualization project analyzing Medicaid prescription reimbursement patte
 ## 📊 Dashboard
 
 View the interactive dashboard on Tableau Public:
-[Medicaid Reimbursements Dashboard]([#](https://public.tableau.com/shared/JC84YFGRX?:display_count=n&:origin=viz_share_link)) 
+[Medicaid Reimbursements Dashboard]([(https://public.tableau.com/shared/JC84YFGRX?:display_count=n&:origin=viz_share_link)]) 
 
 ---
 
