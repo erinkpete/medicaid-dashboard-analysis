@@ -4,14 +4,14 @@ A data visualization project analyzing Medicaid prescription reimbursement patte
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 View the interactive dashboard on Tableau Public:
 [Medicaid Reimbursements Dashboard](https://public.tableau.com/shared/JC84YFGRX?:display_count=n&:origin=viz_share_link)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Question:** Which states receive the most Medicaid prescription support, and which drugs are driving reimbursement costs?
 
@@ -21,7 +21,7 @@ In 2021, State Medicaid programs collectively reimbursed over 1.46 billion presc
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - **California and New York** led the nation in total Medicaid prescription reimbursements
 - **Wyoming and South Dakota** had the lowest reimbursement totals, suggesting potential disparities in access or demand
@@ -30,7 +30,7 @@ In 2021, State Medicaid programs collectively reimbursed over 1.46 billion presc
 
 ---
 
-## 🛠️ Tools & Data
+## Tools & Data
 
 | Tool | Purpose |
 |------|---------|
@@ -43,7 +43,7 @@ The dataset includes state-level Medicaid prescription reimbursement records wit
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
 ├── README.md
@@ -54,7 +54,7 @@ The dataset includes state-level Medicaid prescription reimbursement records wit
 
 ---
 
-## 💡 Possible Further Research
+## Possible Further Research
 
 - How does state population size affect reimbursement totals?
 - Which states may need increased Medicaid prescription support?
@@ -63,8 +63,8 @@ The dataset includes state-level Medicaid prescription reimbursement records wit
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a Statistics graduate from Utah State University (minors in Mathematics and Data Analytics) with experience in Python, R, SQL, Tableau, and Excel. I'm currently seeking data analyst roles.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/erinkpete)
+[LinkedIn](https://www.linkedin.com/in/erinkpete)
